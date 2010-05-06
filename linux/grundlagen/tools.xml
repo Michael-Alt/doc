@@ -11,4 +11,25 @@
       <holder>Michael Alt</holder>
     </copyright>
   </articleinfo>
+  <abstract>
+    <para>Sammlung diverser Hand Outs und Artikel meiner Linux-Schulungen</para>
+  </abstract>
+  <section>
+    <title>Der Editor vi</title>
+  </section>
+  <section>
+    <title>Text Processing Commands</title>
+  </section>
+  <section>
+    <title>sed - der Stream Editor</title>
+  </section>
+  <section>
+    <title>Task Planing: at und cron</title>
+  </section>
+  <section>
+    <title>Prozessverwaltung</title>
+  </section>
+  <section>
+    <title>Shell - Scripting Basics</title>
+  </section>
 </article>
